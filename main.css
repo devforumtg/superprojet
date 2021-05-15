@@ -1,0 +1,17 @@
+
+
+
+.card{
+    display: inline-block;
+}
+
+button.btn.btn-primary {
+    display: flex;
+    border-radius: 90px;
+    height: 90px;
+    width: 90px;
+    margin-right: 19px;
+    float: right;
+    align-items: center;
+    text-align: center;
+}
